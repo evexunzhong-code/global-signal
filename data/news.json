@@ -1,0 +1,17 @@
+{
+  "updated_at": null,
+  "demo": true,
+  "note": "演示数据，请运行 GitHub Actions 获取真实 RSS 新闻。",
+  "stories": [
+    {
+      "title": "欢迎使用世界信号",
+      "summary": "这是网站结构的演示卡片。首次执行自动更新后，将替换为来自公开新闻 RSS 的真实报道。",
+      "signal": "通过新闻链接核对事实，分析部分关注可能影响和后续值得观察的指标。",
+      "signal_type": "示例",
+      "category": "地缘政治",
+      "source": "本站说明",
+      "published": "2026-10-18T00:00:00Z",
+      "url": "https://www.bbc.com/news/world"
+    }
+  ]
+}
