@@ -1,17 +1,137 @@
 {
-  "updated_at": null,
-  "demo": true,
-  "note": "演示数据，请运行 GitHub Actions 获取真实 RSS 新闻。",
+  "updated_at": "2026-10-18T10:36:44.966588+00:00",
+  "demo": false,
+  "note": "实时RSS英文新闻；信号仅为分类通用观察（尚未启用AI中文解读）。",
   "stories": [
     {
-      "title": "欢迎使用世界信号",
-      "summary": "这是网站结构的演示卡片。首次执行自动更新后，将替换为来自公开新闻 RSS 的真实报道。",
-      "signal": "通过新闻链接核对事实，分析部分关注可能影响和后续值得观察的指标。",
-      "signal_type": "示例",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "category": "地缘政治",
-      "source": "本站说明",
-      "published": "2026-10-18T00:00:00Z",
-      "url": "https://www.bbc.com/news/world"
+      "source": "BBC World",
+      "published": "2026-10-18T01:10:25+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-17T23:52:38+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-17T02:33:09+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+      "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
+      "category": "地缘政治",
+      "source": "BBC Science",
+      "published": "2026-10-15T17:31:37+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-15T11:34:55+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
+      "summary": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-14T14:13:37+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+      "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-10-18T08:12:24+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "There's a crackdown on sports piracy - but is it already out of control?",
+      "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-18T00:11:09+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+      "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-17T19:13:21+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+      "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-17T01:59:48+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "summary": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-10-16T15:31:33+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Living with a stink? Technology might help",
+      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-10-15T23:18:21+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "规则生成 · 通用观察"
+    },
+    {
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-10-14T15:54:04+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "规则生成 · 通用观察"
     }
   ]
 }
