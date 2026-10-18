@@ -3,7 +3,6 @@
 import datetime as dt
 import email.utils
 import json
-import os
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -55,38 +54,27 @@ def fetch_items(source, url):
         cat=max(counts,key=counts.get)
         result.append({"title":title,"summary":summary[:420],"category":cat,"source":source,
                        "published":date.isoformat(),"url":link,
-                       "signal":SIGNALS[cat],"signal_type":"规则生成 · 通用观察",
+                       "signal":specific_signal(title, summary, cat),"signal_type":"免费规则分析 · 需人工核实",
                        "_score":counts[cat]*10+max(0,72-age)/12})
     return result
 
-def ai_analysis(stories):
-    key=os.environ.get("OPENAI_API_KEY","").strip()
-    if not key:
-        return False
-    payload={"model":os.environ.get("OPENAI_MODEL","gpt-4.1-mini"),
-             "response_format":{"type":"json_object"},
-             "messages":[
-                {"role":"system","content":"你是一位严谨的中文新闻编辑。根据输入的公开新闻标题和摘要，用中文写准确的title、summary和signal。signal解释可能的政治、经济或产业影响，明确推测性质，不编造未经提供的事实。仅输出JSON对象，格式为{\"stories\":[{\"title\":\"\",\"summary\":\"\",\"signal\":\"\"}]}，顺序及数量与输入相同。"},
-                {"role":"user","content":json.dumps([{"title":s["title"],"summary":s["summary"]} for s in stories],ensure_ascii=False)}]}
-    req=urllib.request.Request("https://api.openai.com/v1/chat/completions",
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Authorization":"Bearer "+key,"Content-Type":"application/json"},method="POST")
-    try:
-        with urllib.request.urlopen(req,timeout=90) as response:
-            raw=json.load(response)
-        translations=json.loads(raw["choices"][0]["message"]["content"])["stories"]
-        if len(translations)!=len(stories):
-            raise ValueError("Returned wrong number of stories")
-        if any(not all(isinstance(x.get(k),str) and x[k].strip() for k in ("title","summary","signal")) for x in translations):
-            raise ValueError("Missing translated fields")
-        for story,x in zip(stories,translations):
-            for key in ("title","summary","signal"):
-                story[key]=x[key].strip()[:700]
-            story["signal_type"]="AI 辅助推断"
-        return True
-    except Exception as error:
-        print("AI step failed, retaining RSS headlines:",str(error)[:200])
-        return False
+def specific_signal(title, summary, category):
+    """Transparent rule-based observations; no paid API or claim of AI analysis."""
+    text = (title + " " + summary).lower()
+    rules = [
+        (("tariff", "trade war", "import duty"), "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。"),
+        (("sanction", "sanctions"), "制裁措施的变化可能影响跨境交易与外交谈判。后续关注具体限制清单、执行日期和相关国家反应。"),
+        (("election", "vote", "ballot"), "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。"),
+        (("interest rate", "central bank", "inflation"), "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。"),
+        (("oil", "natural gas", "energy prices"), "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。"),
+        (("ai ", "artificial intelligence", "chip", "semiconductor"), "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。"),
+        (("war", "military", "ceasefire"), "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。"),
+        (("climate", "emission", "deforestation"), "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。"),
+    ]
+    for terms, observation in rules:
+        if any(term in text for term in terms):
+            return observation
+    return SIGNALS[category]
 
 def main():
     candidates=[]
@@ -113,14 +101,13 @@ def main():
         if len(selected)>=13: break
         if s not in selected: selected.append(s)
     selected=sorted(selected,key=lambda x:(x["_score"],x["published"]),reverse=True)[:13]
-    ai=ai_analysis(selected)
     for story in selected:
         del story["_score"]
     data={"updated_at":dt.datetime.now(dt.timezone.utc).isoformat(),"demo":False,
-          "note":"新闻来自媒体RSS；信号为AI辅助推断，请核实原文。" if ai else "实时RSS英文新闻；信号仅为分类通用观察（尚未启用AI中文解读）。",
+          "note":"永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
           "stories":selected}
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("Saved",len(selected),"stories; AI:",ai)
+    print("Saved",len(selected),"stories; no paid API used")
 if __name__=="__main__":
     main()
