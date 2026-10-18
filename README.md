@@ -1,22 +1,19 @@
-# 世界信号 / Global Signal
+# 世界信号 · Global Signal
 
-国际新闻中文阅读站：新闻事实、原文链接与潜在信号。静态网站，无需数据库。
+永久免费版国际新闻阅读站（原始 RSS 抓取 + 中文规则观察）。仓库已配置定时任务，每日 UTC 00:23 和 12:23 尝试更新，执行可能延迟。
 
-## 使用说明
-1. 仓库 Actions 里选择 **Update international news**，点击 **Run workflow** 抓取真实新闻。
-2. 如需 AI 中文翻译与针对性信号分析，请在仓库 Settings → Secrets and variables → Actions 创建 **OPENAI_API_KEY**；调用 API 可能产生费用。切勿将密钥放入代码。
-3. 可选择将仓库发布为静态网站。GitHub Pages 通常为公开可访问站点；请先确认是否同意公开，并检查私人仓库的 Pages 计划支持情况。
-4. 暂不公开也能在本地用 `python -m http.server 8000` 浏览。
+## 功能
+- 从 BBC World / Business / Technology / Science & Environment 的 RSS 获取真实标题、摘要与原文链接。
+- 分类、关键词搜索和移动端阅读。
+- 根据标题摘要关键词自动显示有针对性的中文“信号观察”。这些是规则模板，不能代表经过专业核实的结论。
+- 保留英文新闻标题与摘要，以确保没有免费机器翻译服务时不会出现未经验证的中文翻译。
+- 免费运行，无需 OpenAI API Key，不会向任何付费 AI API 发请求。
 
-## 事实与限制
-- 每日计划更新两次（UTC 00:23 和 12:23），GitHub Actions 可能延迟。
-- 数据从公开 BBC RSS 抓取，并根据关键词和时效性大致排序。
-- 无 API Key 时显示英文新闻标题及通用中文类别观察；有 API Key 时可生成中文标题、摘要和针对性信号。
-- 观点属于推断，需与原文区分；媒体站点不可用时，任务失败并保留旧数据。
-- 提供原始来源链接，未核验每个事件的独立真实性。
+## 使用
+1. 在 GitHub Actions → Update international news → Run workflow 手动更新，之后会尝试每天运行两次。
+2. 从 data/news.json 检查最新抓取结果。
+3. 可用 Python `python -m http.server 8000` 在本地访问主页。
+4. GitHub Pages 发布可能需要公开仓库或付费计划支持私有源，**未经同意请不要公开仓库**。
 
-## 项目结构
-- `index.html` 前端页面（纯 HTML/CSS/JS）
-- `data/news.json` 新闻数据
-- `scripts/update_news.py` RSS 抓取和可选 AI 分析
-- `.github/workflows/daily-news.yml` 定时任务
+## 注意
+新闻排序和类别由关键词规则完成，准确性有限；部分 RSS 可用性取决于媒体服务。每条事件的信号仅为可能性，请点击原文核对事实。
