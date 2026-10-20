@@ -1,11 +1,21 @@
 {
-  "updated_at": "2026-10-20T01:08:59.915621+00:00",
+  "updated_at": "2026-10-20T13:11:15.659957+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "title": "How is the US economy really doing under President Trump?",
+      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-10-20T05:00:45+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "US bans China's DeepSeek from government in race for AI dominance",
+      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
       "category": "科技产业",
       "source": "BBC Business",
       "published": "2026-10-19T18:21:54+00:00",
@@ -74,62 +84,52 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "What are the new faces coming to UK bank notes?",
-      "summary": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
+      "title": "UK asks Apple to widen access to its payment tech",
+      "summary": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-10-20T12:29:24+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
+      "summary": "It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.",
       "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-19T09:48:35+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-10-20T12:09:25+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
-      "summary": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
-      "category": "科技产业",
+      "title": "The British island where red squirrels are thriving",
+      "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-20T05:38:30+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
+      "summary": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-20T05:27:15+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "category": "能源气候",
       "source": "BBC World",
-      "published": "2026-10-19T07:35:06+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-19T06:08:02+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Fuel leak spreads more than two miles along River Taff",
-      "summary": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-18T19:20:57+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-      "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
-      "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-10-18T08:12:24+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-      "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-17T19:13:21+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T03:10:39+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
