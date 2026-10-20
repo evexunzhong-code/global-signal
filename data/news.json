@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-10-19T13:11:43.557212+00:00",
+  "updated_at": "2026-10-20T01:08:59.915621+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-10-19T18:21:54+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-19T16:20:51+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Catalonia's former rebel president can return to Spain, court rules",
+      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-19T14:06:53+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Italy plans tougher security measures after violent protests",
+      "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-19T11:23:36+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "Musk and Anthropic pledge public share giveaways",
       "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
       "category": "经济金融",
-      "source": "BBC World",
+      "source": "BBC Business",
       "published": "2026-10-19T09:38:25+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
@@ -34,16 +74,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-10-17T02:33:09+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "What are the new faces coming to UK bank notes?",
       "summary": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
       "category": "经济金融",
@@ -51,26 +81,6 @@
       "published": "2026-10-19T09:48:35+00:00",
       "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-19T09:40:44+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
-      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-19T07:46:54+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -90,16 +100,6 @@
       "source": "BBC Business",
       "published": "2026-10-19T06:08:02+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-10-18T23:24:59+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
