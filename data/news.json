@@ -1,13 +1,43 @@
 {
-  "updated_at": "2026-10-20T13:11:15.659957+00:00",
+  "updated_at": "2026-10-21T01:08:14.738813+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
+      "title": "Tech Life",
+      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-10-20T19:45:00+00:00",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-10-20T19:30:05+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-20T14:09:42+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "How is the US economy really doing under President Trump?",
       "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
       "category": "经济金融",
-      "source": "BBC World",
+      "source": "BBC Business",
       "published": "2026-10-20T05:00:45+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
       "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
@@ -24,36 +54,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-19T16:20:51+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-19T14:06:53+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Italy plans tougher security measures after violent protests",
-      "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-19T11:23:36+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Musk and Anthropic pledge public share giveaways",
       "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
       "category": "经济金融",
@@ -61,16 +61,6 @@
       "published": "2026-10-19T09:38:25+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-18T23:20:15+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "signal": "制裁措施的变化可能影响跨境交易与外交谈判。后续关注具体限制清单、执行日期和相关国家反应。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -84,23 +74,33 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "UK asks Apple to widen access to its payment tech",
-      "summary": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
-      "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-10-20T12:29:24+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-20T23:41:30+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
-      "summary": "It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.",
-      "category": "经济金融",
-      "source": "BBC Technology",
-      "published": "2026-10-20T12:09:25+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "title": "Is Donald Trump ready to do business with Myanmar?",
+      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-20T23:21:39+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "The tech helping crack decades-old cold cases",
+      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-10-20T23:13:24+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
