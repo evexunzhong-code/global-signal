@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-21T01:08:14.738813+00:00",
+  "updated_at": "2026-10-21T13:12:40.781819+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+      "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-21T11:57:49+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "Tech Life",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
@@ -64,72 +74,62 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Microsoft pulls out of UK's largest AI data centre",
-      "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "title": "Cyber chiefs tell websites to make critical safety update or go offline",
+      "summary": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
       "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-10-18T16:46:42+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-20T23:41:30+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Is Donald Trump ready to do business with Myanmar?",
-      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-20T23:21:39+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "The tech helping crack decades-old cold cases",
-      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-10-20T23:13:24+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-10-21T12:35:36+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "The British island where red squirrels are thriving",
-      "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+      "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+      "category": "地缘政治",
+      "source": "BBC Business",
+      "published": "2026-10-21T12:17:12+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Irish weather warning ahead of Storm Austen",
+      "summary": "The Republic of Ireland's weather service warns of potential of flooding and travel disruption.",
+      "category": "地缘政治",
+      "source": "BBC Science",
+      "published": "2026-10-21T11:48:46+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck98z6e4l725o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+      "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
+      "category": "地缘政治",
+      "source": "BBC Science",
+      "published": "2026-10-21T10:55:32+00:00",
+      "url": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Storm Austen to batter Wales coast with 70mph winds",
+      "summary": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday.",
       "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-10-20T05:38:30+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T10:10:40+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
-      "summary": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
+      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+      "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
       "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-10-20T05:27:15+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "category": "能源气候",
-      "source": "BBC World",
-      "published": "2026-10-20T03:10:39+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T04:44:56+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
