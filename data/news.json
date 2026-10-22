@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-21T13:12:40.781819+00:00",
+  "updated_at": "2026-10-22T01:06:33.245664+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-21T19:58:06+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-21T21:27:41+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+      "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-21T15:36:31+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
       "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
@@ -34,16 +64,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-20T14:09:42+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "How is the US economy really doing under President Trump?",
       "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
       "category": "经济金融",
@@ -57,7 +77,7 @@
       "title": "US bans China's DeepSeek from government in race for AI dominance",
       "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
       "category": "科技产业",
-      "source": "BBC Business",
+      "source": "BBC Technology",
       "published": "2026-10-19T18:21:54+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
@@ -67,69 +87,49 @@
       "title": "Musk and Anthropic pledge public share giveaways",
       "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
       "category": "经济金融",
-      "source": "BBC Business",
+      "source": "BBC Technology",
       "published": "2026-10-19T09:38:25+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Cyber chiefs tell websites to make critical safety update or go offline",
-      "summary": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
+      "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "category": "地缘政治",
+      "source": "BBC Business",
+      "published": "2026-10-21T23:27:05+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
       "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-10-21T12:35:36+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-21T23:06:37+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
+      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
       "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-10-21T12:17:12+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-21T22:00:58+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Irish weather warning ahead of Storm Austen",
-      "summary": "The Republic of Ireland's weather service warns of potential of flooding and travel disruption.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-10-21T11:48:46+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ck98z6e4l725o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
-      "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-10-21T10:55:32+00:00",
-      "url": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Storm Austen to batter Wales coast with 70mph winds",
-      "summary": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday.",
+      "title": "Can a giant tunnel save Windermere?",
+      "summary": "A £3.6bn proposal to stop sewage being discharged into Windermere, England's largest lake, has been unveiled.",
       "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-10-21T10:10:40+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
-      "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-21T04:44:56+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T16:30:54+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/ck4g1j7nnqvjo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
