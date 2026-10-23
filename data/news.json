@@ -1,18 +1,8 @@
 {
-  "updated_at": "2026-10-23T01:11:24.939294+00:00",
+  "updated_at": "2026-10-23T13:07:54.235489+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
-    {
-      "title": "AI discovered a massive cyber-security flaw - here's what happened",
-      "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-10-22T12:17:44+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
     {
       "title": "UK working to identify exposure after global cyber-security warning",
       "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
@@ -21,6 +11,26 @@
       "published": "2026-10-22T08:23:42+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-10-23T12:24:17+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-10-23T08:39:42+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -44,23 +54,13 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-10-22T11:15:58+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "El Salvador's president threatens Haitian gangs over military hostages",
-      "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+      "title": "'500 new vulnerabilities' found in government, says AI minister",
+      "summary": "'500 new vulnerabilities' found in government, says AI minister",
       "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-22T10:17:48+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "source": "BBC Technology",
+      "published": "2026-10-22T10:08:44+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -84,53 +84,53 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Grid operator says lights will stay on this winter after concerns",
-      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+      "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
       "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-10-22T23:04:38+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published": "2026-10-23T13:00:59+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
-      "category": "能源气候",
-      "source": "BBC World",
-      "published": "2026-10-22T15:11:49+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "title": "Island inflation rate rises to 3%, figures show",
+      "summary": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-23T11:58:19+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "title": "Fund to help businesses switch to green vehicles",
+      "summary": "Council leader Stephen Place says it will help businesses counter the rising cost of fuel.",
       "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-22T14:28:59+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Tank barrel production returns to UK after 20 years",
-      "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-22T13:45:19+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published": "2026-10-23T10:15:00+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr62ydqjvg9lo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Jackdaw decision 'taken outwith Scotland about Scotland's energy'",
-      "summary": "Scottish Green Mark Ruskell, the SNP’s Keith Brown and Scottish Labour’s Jenny Young weigh up the Jackdaw decision.",
+      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
+      "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
       "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-10-22T07:26:18+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:26:47+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "The Indian workers filming their work to train AI",
+      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-10-23T08:04:17+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
