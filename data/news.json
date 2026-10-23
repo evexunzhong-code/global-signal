@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-22T13:13:18.854143+00:00",
+  "updated_at": "2026-10-23T01:11:24.939294+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "How did AI discover the internet's massive cyber-security risk?",
+      "title": "AI discovered a massive cyber-security flaw - here's what happened",
       "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
       "category": "科技产业",
       "source": "BBC World",
@@ -21,6 +21,26 @@
       "published": "2026-10-22T08:23:42+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-22T23:16:20+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-22T15:56:36+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -44,46 +64,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "'500 new vulnerabilities' found in government, says AI minister",
-      "summary": "'500 new vulnerabilities' found in government, says AI minister",
-      "category": "地缘政治",
-      "source": "BBC Technology",
-      "published": "2026-10-22T10:08:44+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-22T03:05:28+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-      "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-21T15:36:31+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
-      "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-21T11:57:49+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Tech Life",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
       "category": "科技产业",
@@ -104,11 +84,31 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "Grid operator says lights will stay on this winter after concerns",
+      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-10-22T23:04:38+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-10-22T15:11:49+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-10-22T12:54:36+00:00",
+      "published": "2026-10-22T14:28:59+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
@@ -118,7 +118,7 @@
       "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-10-22T12:14:19+00:00",
+      "published": "2026-10-22T13:45:19+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
