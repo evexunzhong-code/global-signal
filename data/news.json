@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T13:07:54.235489+00:00",
+  "updated_at": "2026-10-24T01:14:44.999904+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -10,6 +10,16 @@
       "source": "BBC Technology",
       "published": "2026-10-22T08:23:42+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Why should I stockpile and what will I need?",
+      "summary": "The UK government has warned households to have three days of essential supplies on hand.",
+      "category": "地缘政治",
+      "source": "BBC Science",
+      "published": "2026-10-23T13:30:32+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -44,16 +54,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-22T15:56:36+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "'500 new vulnerabilities' found in government, says AI minister",
       "summary": "'500 new vulnerabilities' found in government, says AI minister",
       "category": "地缘政治",
@@ -74,23 +74,43 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-20T19:30:05+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
+      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+      "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-23T21:10:47+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
-      "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
+      "title": "The little-known investment Martin Lewis wants you to understand...",
+      "summary": "The little-known investment Martin Lewis wants you to understand",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-23T15:41:28+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-10-23T15:37:07+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
       "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-23T13:00:59+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "source": "BBC World",
+      "published": "2026-10-23T15:30:47+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -101,26 +121,6 @@
       "published": "2026-10-23T11:58:19+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
       "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Fund to help businesses switch to green vehicles",
-      "summary": "Council leader Stephen Place says it will help businesses counter the rising cost of fuel.",
-      "category": "经济金融",
-      "source": "BBC Science",
-      "published": "2026-10-23T10:15:00+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cr62ydqjvg9lo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-      "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-23T08:26:47+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
