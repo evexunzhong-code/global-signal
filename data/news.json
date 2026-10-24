@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:14:44.999904+00:00",
+  "updated_at": "2026-10-24T13:03:03.669817+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -11,6 +11,26 @@
       "published": "2026-10-22T08:23:42+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "How Brazil's changing working class is reshaping the presidential race",
+      "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-24T05:05:44+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-23T22:24:36+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -30,36 +50,6 @@
       "source": "BBC Business",
       "published": "2026-10-23T12:24:17+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Rubio turns to small Indian town as US faces high oil prices",
-      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
-      "category": "能源气候",
-      "source": "BBC World",
-      "published": "2026-10-23T08:39:42+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-22T23:16:20+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'500 new vulnerabilities' found in government, says AI minister",
-      "summary": "'500 new vulnerabilities' found in government, says AI minister",
-      "category": "地缘政治",
-      "source": "BBC Technology",
-      "published": "2026-10-22T10:08:44+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -121,6 +111,16 @@
       "published": "2026-10-23T11:58:19+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
       "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
+      "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-23T08:26:47+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
