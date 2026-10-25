@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T13:03:03.669817+00:00",
+  "updated_at": "2026-10-25T01:03:51.267402+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -11,6 +11,16 @@
       "published": "2026-10-22T08:23:42+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-24T22:08:47+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -34,16 +44,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Why should I stockpile and what will I need?",
-      "summary": "The UK government has warned households to have three days of essential supplies on hand.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-10-23T13:30:32+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
       "category": "科技产业",
@@ -54,13 +54,23 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Tech Life",
-      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-      "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-10-20T19:45:00+00:00",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-24T23:15:18+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-10-24T19:37:35+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -80,16 +90,6 @@
       "source": "BBC Business",
       "published": "2026-10-23T15:41:28+00:00",
       "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-10-23T15:37:07+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -114,16 +114,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-      "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-23T08:26:47+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "The Indian workers filming their work to train AI",
       "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
       "category": "科技产业",
@@ -131,6 +121,16 @@
       "published": "2026-10-23T08:04:17+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+      "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-10-22T10:17:26+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
