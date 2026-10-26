@@ -1,16 +1,36 @@
 {
-  "updated_at": "2026-10-26T01:18:43.402577+00:00",
+  "updated_at": "2026-10-26T15:01:04.914687+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-10-26T14:41:45+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
       "category": "地缘政治",
-      "source": "BBC Technology",
-      "published": "2026-10-22T08:23:42+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "source": "BBC World",
+      "published": "2026-10-26T13:54:21+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-26T05:20:19+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -21,16 +41,6 @@
       "published": "2026-10-26T00:13:09+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-25T23:33:14+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -74,6 +84,16 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-10-26T13:18:57+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
       "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
       "category": "能源气候",
@@ -84,22 +104,12 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-      "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-25T21:09:58+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-      "summary": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
+      "title": "Business Daily",
+      "summary": "A Chinese export surge has implications far beyond its borders",
       "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-10-25T08:36:47+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published": "2026-10-25T19:00:00+00:00",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -121,16 +131,6 @@
       "published": "2026-10-25T07:06:12+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "The Indian workers filming their work to train AI",
-      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-10-23T08:04:17+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
