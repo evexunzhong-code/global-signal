@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T13:03:09.017829+00:00",
+  "updated_at": "2026-10-26T01:18:43.402577+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -14,6 +14,46 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "From agriculture to AI-griculture: How tech is changing farming",
+      "summary": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
+      "category": "科技产业",
+      "source": "BBC Science",
+      "published": "2026-10-26T00:13:09+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-25T23:33:14+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-25T22:11:13+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Why Israel's election is one of the most important in its history",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-25T22:05:30+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "Heating oil costs 'more than double' ahead of winter",
       "summary": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
       "category": "能源气候",
@@ -21,36 +61,6 @@
       "published": "2026-10-25T07:12:21+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "The bitter row over military service that could shape Israel's future",
-      "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-24T23:03:21+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-24T22:08:47+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "How Brazil's changing working class is reshaping the presidential race",
-      "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-24T05:05:44+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -64,22 +74,22 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
-      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday.",
+      "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
+      "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
       "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-10-25T11:14:48+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T21:11:43+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "More wet and windy weather to follow stormy weekend",
-      "summary": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week.",
+      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
+      "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
       "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-10-25T10:16:20+00:00",
-      "url": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T21:09:58+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -121,16 +131,6 @@
       "published": "2026-10-23T08:04:17+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
-      "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
-      "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-10-22T10:17:26+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
