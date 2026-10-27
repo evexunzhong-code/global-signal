@@ -1,26 +1,36 @@
 {
-  "updated_at": "2026-10-26T15:01:04.914687+00:00",
+  "updated_at": "2026-10-27T01:13:25.818522+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
-    {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-10-26T14:41:45+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
     {
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
       "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-10-26T13:54:21+00:00",
+      "published": "2026-10-26T21:02:47+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Political battle intensifies within Labour over Rosebank oil field",
+      "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-26T18:09:49+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-10-26T16:27:17+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -41,16 +51,6 @@
       "published": "2026-10-26T00:13:09+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-25T22:11:13+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -77,10 +77,30 @@
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
       "category": "科技产业",
-      "source": "BBC Business",
+      "source": "BBC Technology",
       "published": "2026-10-23T12:24:17+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-27T01:10:22+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "New weather warnings as third storm set to hit Scotland",
+      "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
+      "category": "地缘政治",
+      "source": "BBC Science",
+      "published": "2026-10-26T23:00:14+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -88,18 +108,8 @@
       "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
       "category": "能源气候",
       "source": "BBC World",
-      "published": "2026-10-26T13:18:57+00:00",
+      "published": "2026-10-26T17:00:09+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
-      "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-25T21:11:43+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -121,16 +131,6 @@
       "published": "2026-10-25T07:15:38+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Firms 'holding back' on new jobs ahead of Budget",
-      "summary": "Some businesses say they want to see employment costs come down in the October Budget.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-25T07:06:12+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
