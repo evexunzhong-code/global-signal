@@ -1,26 +1,56 @@
 {
-  "updated_at": "2026-10-27T13:16:20.773208+00:00",
+  "updated_at": "2026-10-28T01:27:49.694129+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
-      "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-27T12:25:14+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "title": "Weather warning lifted as third storm to hit Scotland eases off",
+      "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-27T21:20:52+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
-      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "title": "Landline switchover could cut people off in emergency, minister warned",
+      "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+      "category": "地缘政治",
+      "source": "BBC Business",
+      "published": "2026-10-27T20:54:48+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Tech Life",
+      "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-10-27T20:30:00+00:00",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-10-27T11:11:33+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "published": "2026-10-27T18:28:23+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-27T15:41:46+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -30,16 +60,6 @@
       "source": "BBC World",
       "published": "2026-10-27T10:17:36+00:00",
       "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Why it could take time for a new Israeli government to form",
-      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-27T08:37:30+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
       "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -67,70 +87,50 @@
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "category": "科技产业",
-      "source": "BBC World",
+      "source": "BBC Business",
       "published": "2026-10-26T16:27:17+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "From agriculture to AI-griculture: How tech is changing farming",
-      "summary": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
+      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+      "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
       "category": "科技产业",
       "source": "BBC Science",
-      "published": "2026-10-26T00:13:09+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "New weather warning as third storm hits Scotland",
-      "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-10-27T12:20:35+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Business Daily",
-      "summary": "After decades of ultra-cheap money, the cost of borrowing in Japan is rising",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-26T21:30:00+00:00",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grq?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Weary driver creates AI 'litter-tracking dashcam'",
-      "summary": "Robin Bennett says he created the app after getting frustrated by the amount of rubbish beside roads",
-      "category": "科技产业",
-      "source": "BBC Science",
-      "published": "2026-10-26T06:18:37+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2v3ky1ek7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T01:01:02+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
-      "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
+      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-28T00:03:10+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
       "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-25T21:11:43+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-27T20:42:38+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "title": "How the beauty industry is boosting High Streets",
+      "summary": "Marie Camara believes beauty and personal care businesses play a key role in supporting high streets.",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-10-25T07:15:38+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "published": "2026-10-27T14:35:10+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cmr4y51lp5zko?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
