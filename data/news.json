@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-28T01:27:49.694129+00:00",
+  "updated_at": "2026-10-28T13:26:46.730656+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+      "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-27T21:46:43+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-10-28T10:18:40+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-28T10:17:54+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "Weather warning lifted as third storm to hit Scotland eases off",
       "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
@@ -44,26 +74,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "West warns of famine risk in Sudan as civil war grinds on",
-      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-27T15:41:46+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-27T10:17:36+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
       "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
       "category": "经济金融",
@@ -94,43 +104,33 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "Chancellor begins to deliver his first Budget",
+      "summary": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-28T13:13:17+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
       "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
       "category": "科技产业",
-      "source": "BBC Science",
+      "source": "BBC World",
       "published": "2026-10-28T01:01:02+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
       "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-28T00:03:10+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
-      "category": "能源气候",
-      "source": "BBC World",
-      "published": "2026-10-27T20:42:38+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "How the beauty industry is boosting High Streets",
-      "summary": "Marie Camara believes beauty and personal care businesses play a key role in supporting high streets.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-27T14:35:10+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cmr4y51lp5zko?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "source": "BBC Science",
+      "published": "2026-10-25T07:15:38+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
