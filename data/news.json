@@ -1,16 +1,26 @@
 {
-  "updated_at": "2026-10-28T13:26:46.730656+00:00",
+  "updated_at": "2026-10-29T01:27:06.002687+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-      "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-10-27T21:46:43+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:53:02+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
       "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-10-28T18:45:09+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -84,16 +94,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Political battle intensifies within Labour over Rosebank oil field",
-      "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-26T18:09:49+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "category": "科技产业",
@@ -104,13 +104,23 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Chancellor begins to deliver his first Budget",
-      "summary": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
+      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+      "summary": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-10-28T13:13:17+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "published": "2026-10-28T20:31:39+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss",
+      "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "What we now know about the UK economy in four charts",
+      "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-28T20:08:45+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -121,16 +131,6 @@
       "published": "2026-10-28T01:01:02+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "category": "经济金融",
-      "source": "BBC Science",
-      "published": "2026-10-25T07:15:38+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
