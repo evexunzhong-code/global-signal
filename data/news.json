@@ -1,16 +1,26 @@
 {
-  "updated_at": "2026-10-29T01:27:06.002687+00:00",
+  "updated_at": "2026-10-29T13:28:40.689288+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+      "summary": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-10-28T20:53:02+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "published": "2026-10-29T11:25:16+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+      "signal": "制裁措施的变化可能影响跨境交易与外交谈判。后续关注具体限制清单、执行日期和相关国家反应。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+      "summary": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-10-29T03:15:35+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -24,42 +34,12 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
-      "category": "能源气候",
-      "source": "BBC World",
-      "published": "2026-10-28T10:18:40+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-28T10:17:54+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Weather warning lifted as third storm to hit Scotland eases off",
       "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
       "category": "能源气候",
       "source": "BBC Science",
       "published": "2026-10-27T21:20:52+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Landline switchover could cut people off in emergency, minister warned",
-      "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
-      "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-10-27T20:54:48+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -74,63 +54,83 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-27T18:28:23+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-27T06:33:11+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "title": "Political battle intensifies within Labour over Rosebank oil field",
+      "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-10-26T18:09:49+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "category": "科技产业",
-      "source": "BBC Business",
+      "source": "BBC Technology",
       "published": "2026-10-26T16:27:17+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
-      "summary": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
-      "category": "经济金融",
+      "title": "Minimum wage increase accepted by minister",
+      "summary": "A recommendation to increase the minimum wage by 2.8% is agreed by Senator Elaine Millar.",
+      "category": "地缘政治",
       "source": "BBC Business",
-      "published": "2026-10-28T20:31:39+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss",
-      "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
+      "published": "2026-10-29T13:27:44+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq77pm5ykrpzo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "What we now know about the UK economy in four charts",
-      "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-      "category": "经济金融",
+      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+      "category": "地缘政治",
       "source": "BBC Business",
-      "published": "2026-10-28T20:08:45+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "published": "2026-10-29T13:27:29+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-10-28T01:01:02+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "summary": "Budget forecasts show growth in living standards grinding almost to a halt.",
+      "category": "地缘政治",
+      "source": "BBC Business",
+      "published": "2026-10-29T13:19:24+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "The Bottom Line",
+      "summary": "How easy is it to build a business after serving time in jail?",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-29T12:30:00+00:00",
+      "url": "https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+      "category": "经济金融",
+      "source": "BBC Science",
+      "published": "2026-10-29T12:08:01+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+      "category": "经济金融",
+      "source": "BBC Technology",
+      "published": "2026-10-29T09:31:44+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
