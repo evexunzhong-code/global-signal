@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-29T13:28:40.689288+00:00",
+  "updated_at": "2026-10-30T01:29:19.456338+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "US interest rates held steady and economy grows - what it means for you",
+      "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-29T17:15:05+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-29T14:58:28+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Island Energy: No plans to remove gas standing charge",
+      "summary": "The provider said any change would need support from the community, the regulator and government.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-10-29T13:39:54+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
       "summary": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
@@ -74,62 +104,32 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Minimum wage increase accepted by minister",
-      "summary": "A recommendation to increase the minimum wage by 2.8% is agreed by Senator Elaine Millar.",
+      "title": "Crypto worth billions frozen after suspected Binance hack",
+      "summary": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
       "category": "地缘政治",
       "source": "BBC Business",
-      "published": "2026-10-29T13:27:44+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq77pm5ykrpzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T01:20:57+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-      "category": "地缘政治",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-10-29T13:27:29+00:00",
+      "published": "2026-10-29T22:17:52+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+      "summary": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-29T19:11:10+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-      "summary": "Budget forecasts show growth in living standards grinding almost to a halt.",
-      "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-10-29T13:19:24+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "The Bottom Line",
-      "summary": "How easy is it to build a business after serving time in jail?",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-29T12:30:00+00:00",
-      "url": "https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-      "category": "经济金融",
-      "source": "BBC Science",
-      "published": "2026-10-29T12:08:01+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
-      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-      "category": "经济金融",
-      "source": "BBC Technology",
-      "published": "2026-10-29T09:31:44+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
