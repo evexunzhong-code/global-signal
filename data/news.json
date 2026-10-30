@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-30T01:29:19.456338+00:00",
+  "updated_at": "2026-10-30T13:25:07.120260+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "Streeting denies 'kicking can down the road' in defence spending row",
+      "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+      "category": "地缘政治",
+      "source": "BBC Business",
+      "published": "2026-10-30T11:23:38+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Venezuela opposition leader María Machado calls for elections upon return",
+      "summary": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-29T21:05:03+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "US interest rates held steady and economy grows - what it means for you",
       "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
@@ -24,6 +44,16 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
+      "summary": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-29T14:08:23+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "Island Energy: No plans to remove gas standing charge",
       "summary": "The provider said any change would need support from the community, the regulator and government.",
       "category": "能源气候",
@@ -31,26 +61,6 @@
       "published": "2026-10-29T13:39:54+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-      "summary": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-29T11:25:16+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
-      "signal": "制裁措施的变化可能影响跨境交易与外交谈判。后续关注具体限制清单、执行日期和相关国家反应。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
-      "summary": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-10-29T03:15:35+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -84,16 +94,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Political battle intensifies within Labour over Rosebank oil field",
-      "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-10-26T18:09:49+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "category": "科技产业",
@@ -104,33 +104,33 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Crypto worth billions frozen after suspected Binance hack",
-      "summary": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
-      "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-10-30T01:20:57+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "title": "What we know about Binance's $6.3bn hack",
+      "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-10-30T12:27:28+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
       "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-29T22:17:52+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T12:20:04+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-      "summary": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
       "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-29T19:11:10+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "source": "BBC World",
+      "published": "2026-10-30T12:04:02+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
