@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-30T13:25:07.120260+00:00",
+  "updated_at": "2026-10-31T01:27:26.374596+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-30T22:11:52+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-10-30T20:34:46+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "Streeting denies 'kicking can down the road' in defence spending row",
       "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
@@ -31,36 +51,6 @@
       "published": "2026-10-29T17:15:05+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
       "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-29T14:58:28+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-      "summary": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-29T14:08:23+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Island Energy: No plans to remove gas standing charge",
-      "summary": "The provider said any change would need support from the community, the regulator and government.",
-      "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-10-29T13:39:54+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -94,22 +84,22 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-10-26T16:27:17+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-10-31T01:11:43+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "What we know about Binance's $6.3bn hack",
-      "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
       "category": "科技产业",
       "source": "BBC World",
-      "published": "2026-10-30T12:27:28+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T21:13:14+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -131,6 +121,16 @@
       "published": "2026-10-30T12:04:02+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
+      "summary": "Speaking exclusively to the BBC, Joanna Wietrzyk says her determination to win the Hyrox race in September had clouded her judgement.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-10-30T07:33:27+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
