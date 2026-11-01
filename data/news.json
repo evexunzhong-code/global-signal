@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:36:19.777942+00:00",
+  "updated_at": "2026-11-01T13:17:41.961007+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -64,23 +64,23 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
       "category": "能源气候",
-      "source": "BBC World",
-      "published": "2026-11-01T00:55:06+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "source": "BBC Science",
+      "published": "2026-11-01T08:57:56+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-01T00:12:07+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "title": "Energy bills help 'doesn't go far enough'",
+      "summary": "Families in the West Midlands say they are worried about paying winter energy bills.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-11-01T07:15:06+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -88,18 +88,18 @@
       "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
       "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-10-31T22:07:56+00:00",
+      "published": "2026-11-01T07:08:04+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
       "category": "科技产业",
       "source": "BBC World",
-      "published": "2026-10-31T12:50:45+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T01:37:26+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -117,7 +117,7 @@
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
       "category": "科技产业",
-      "source": "BBC World",
+      "source": "BBC Business",
       "published": "2026-10-30T21:13:14+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
