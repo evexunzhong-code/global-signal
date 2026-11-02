@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T13:17:41.961007+00:00",
+  "updated_at": "2026-11-02T01:36:10.598901+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -11,16 +11,6 @@
       "published": "2026-10-31T14:28:15+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-10-30T22:11:52+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -44,22 +34,32 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "US interest rates held steady and economy grows - what it means for you",
-      "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-29T17:15:05+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-02T01:18:27+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-      "category": "能源气候",
+      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "summary": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+      "category": "地缘政治",
       "source": "BBC Business",
-      "published": "2026-10-28T18:45:09+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T22:25:51+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-11-01T18:04:52+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -84,16 +84,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-01T07:08:04+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
       "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
       "category": "科技产业",
@@ -101,16 +91,6 @@
       "published": "2026-11-01T01:37:26+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-10-31T02:39:25+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -131,6 +111,26 @@
       "published": "2026-10-30T12:04:02+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-30T09:33:51+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "summary": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-10-30T06:08:22+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
