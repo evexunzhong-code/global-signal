@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-02T01:36:10.598901+00:00",
+  "updated_at": "2026-11-02T13:36:44.675153+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Ethiopian PM puts ministers through military training",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-10-31T14:28:15+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:44:48+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -34,23 +34,33 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-11-02T13:19:56+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-02T01:18:27+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:22:10+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
-      "summary": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+      "title": "Woman who flew with swans warns of lead danger",
+      "summary": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition.",
       "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-11-01T22:25:51+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "source": "BBC Science",
+      "published": "2026-11-02T06:22:00+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -74,33 +84,23 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Energy bills help 'doesn't go far enough'",
-      "summary": "Families in the West Midlands say they are worried about paying winter energy bills.",
+      "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
+      "summary": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
       "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-11-01T07:15:06+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
+      "source": "BBC Science",
+      "published": "2026-11-01T06:42:13+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
       "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
       "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
       "category": "科技产业",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "published": "2026-11-01T01:37:26+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-10-30T21:13:14+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
