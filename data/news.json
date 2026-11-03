@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-02T13:36:44.675153+00:00",
+  "updated_at": "2026-11-03T01:31:37.596187+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+      "title": "Do the Shetland Isles need Cold War-style military protection?",
+      "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
       "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-02T12:44:48+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published": "2026-11-02T22:45:57+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -34,38 +34,68 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-03T01:23:03+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-03T00:08:14+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-02T18:25:01+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
       "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
       "category": "科技产业",
       "source": "BBC World",
-      "published": "2026-11-02T13:19:56+00:00",
+      "published": "2026-11-02T17:38:11+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "category": "地缘政治",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "category": "经济金融",
       "source": "BBC World",
-      "published": "2026-11-02T12:22:10+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "published": "2026-11-02T17:34:58+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Woman who flew with swans warns of lead danger",
-      "summary": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-11-02T06:22:00+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-11-02T14:24:25+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
       "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
       "category": "能源气候",
       "source": "BBC Science",
       "published": "2026-11-01T18:04:52+00:00",
@@ -94,16 +124,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-      "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-11-01T01:37:26+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
       "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
       "category": "经济金融",
@@ -111,26 +131,6 @@
       "published": "2026-10-30T12:04:02+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-30T09:33:51+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "How Poundland grew from a market stall to a high street giant",
-      "summary": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-10-30T06:08:22+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
