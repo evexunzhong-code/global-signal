@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-11-03T13:32:15.543114+00:00",
+  "updated_at": "2026-11-04T01:30:25.703133+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-11-03T15:51:23+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "Do the Shetland Isles need Cold War-style military protection?",
       "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
@@ -14,41 +24,71 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
       "category": "科技产业",
       "source": "BBC Business",
-      "published": "2026-10-30T20:34:46+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:04:35+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-03T13:28:30+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "signal": "制裁措施的变化可能影响跨境交易与外交谈判。后续关注具体限制清单、执行日期和相关国家反应。",
+      "published": "2026-11-04T00:03:19+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
+      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+      "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-11-03T23:00:14+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-03T13:26:19+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T22:45:59+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in nine countries",
+      "title": "Tech Life",
+      "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-11-03T20:30:00+00:00",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Action needed to tackle 'biodiversity crisis'",
+      "summary": "The issue is part of wider concerns the government is not focused enough on the environment.",
+      "category": "地缘政治",
+      "source": "BBC Science",
+      "published": "2026-11-03T17:25:10+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
       "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
       "category": "经济金融",
       "source": "BBC World",
-      "published": "2026-11-03T13:12:04+00:00",
+      "published": "2026-11-03T13:55:47+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
@@ -60,26 +100,6 @@
       "source": "BBC Technology",
       "published": "2026-11-03T13:07:00+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-03T12:09:20+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'Quiet quitting' could be hitting the economy - here's why",
-      "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-03T11:15:51+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -104,32 +124,12 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "AI data centres could undermine UK's emissions goals",
-      "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
-      "category": "科技产业",
-      "source": "BBC Science",
-      "published": "2026-11-03T06:27:17+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "'Fascinating' rare beetle found in Wales again after 60 years",
       "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
       "category": "能源气候",
       "source": "BBC Science",
       "published": "2026-11-01T18:04:52+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Spill from vandalised home oil tank kills 13 birds",
-      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-01T08:57:56+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
