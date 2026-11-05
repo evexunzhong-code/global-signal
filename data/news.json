@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-11-04T13:36:49.666102+00:00",
+  "updated_at": "2026-11-05T01:36:36.047936+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-04T16:18:21+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-04T18:01:31+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
       "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-04T12:21:21+00:00",
+      "published": "2026-11-04T16:59:15+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
       "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
@@ -18,7 +38,7 @@
       "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-04T12:01:07+00:00",
+      "published": "2026-11-04T14:05:42+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
       "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
@@ -44,32 +64,12 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Do the Shetland Isles need Cold War-style military protection?",
-      "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-11-03T06:07:33+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Poundland owner in crunch talks with as retailer's collapse looms",
-      "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "title": "Interest rates expected to rise for first time in over three years",
+      "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-11-04T12:20:42+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Swim and gym prices set to rise above inflation",
-      "summary": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-04T06:13:19+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T00:00:09+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
       "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -99,7 +99,7 @@
       "category": "科技产业",
       "source": "BBC Technology",
       "published": "2026-11-03T20:30:00+00:00",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -107,7 +107,7 @@
       "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
       "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
       "category": "科技产业",
-      "source": "BBC Business",
+      "source": "BBC Technology",
       "published": "2026-11-03T11:10:37+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
