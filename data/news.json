@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T13:40:30.170697+00:00",
+  "updated_at": "2026-11-06T01:39:11.324489+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -10,6 +10,26 @@
       "source": "BBC World",
       "published": "2026-11-05T03:47:56+00:00",
       "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-06T01:26:52+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-05T19:08:48+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
       "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -34,16 +54,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Everything you need to know from the US midterm elections",
-      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-04T14:05:42+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "What's happening to UK interest rates and what does it mean for mortgages?",
       "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
       "category": "经济金融",
@@ -64,13 +74,13 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Faisal Islam: How high will interest rates go?",
-      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-11-05T13:17:10+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "published": "2026-11-06T00:06:06+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -121,16 +131,6 @@
       "published": "2026-11-03T08:57:20+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
       "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-01T18:04:52+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
