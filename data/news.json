@@ -1,26 +1,36 @@
 {
-  "updated_at": "2026-11-06T01:39:11.324489+00:00",
+  "updated_at": "2026-11-06T13:34:12.898793+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
+      "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-05T03:47:56+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T10:10:38+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-06T08:18:10+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
       "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-      "category": "经济金融",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+      "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-06T01:26:52+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "published": "2026-11-06T02:08:57+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -54,33 +64,33 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-11-04T10:47:31+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "published": "2026-11-06T13:25:50+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Do the Shetland Isles need Cold War-style military protection?",
-      "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-11-03T06:07:33+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "title": "'I've taken an extra job to pay for heating oil'",
+      "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-11-06T11:40:35+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-06T00:06:06+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-11-06T09:57:04+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -110,16 +120,6 @@
       "source": "BBC Technology",
       "published": "2026-11-03T20:30:00+00:00",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-      "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-11-03T11:10:37+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
