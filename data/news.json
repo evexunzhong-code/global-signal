@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:35:47.848343+00:00",
+  "updated_at": "2026-11-08T13:18:58.540343+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -14,13 +14,13 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Four things we learned this week about 2028 White House race",
-      "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-07T12:23:28+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-11-08T07:11:02+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -64,33 +64,43 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
       "category": "地缘政治",
       "source": "BBC Business",
-      "published": "2026-11-07T21:36:16+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Paraguay's former president charged after bank collapse",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-07T19:17:22+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T11:25:32+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-08T09:29:24+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Countryside managers prepare for climate change",
+      "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-11-08T07:16:55+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-07T18:14:38+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "published": "2026-11-07T21:36:16+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -110,16 +120,6 @@
       "source": "BBC Science",
       "published": "2026-11-06T16:43:30+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "A really simple guide to climate change",
-      "summary": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-06T16:40:51+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
       "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
