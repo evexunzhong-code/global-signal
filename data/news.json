@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-09T01:39:15.777364+00:00",
+  "updated_at": "2026-11-09T13:40:26.916716+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
-      "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-08T07:11:02+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
+      "summary": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-08T17:51:03+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -34,33 +34,53 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Three ways the interest rate rise could affect you",
-      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-05T13:08:30+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-09T13:10:32+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-      "summary": "A little-known investment group has made a bid to buy the business.",
-      "category": "经济金融",
+      "title": "Government's EV targets expected to be reduced this week",
+      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "category": "地缘政治",
       "source": "BBC Business",
-      "published": "2026-11-05T09:46:32+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T12:06:22+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Birds return to waterfowl park after oil vandalism",
+      "summary": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-11-09T11:33:58+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-09T10:41:57+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "A glimmer of good news for Britain's sleepy dormouse",
-      "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
       "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-11-09T00:56:43+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "source": "BBC World",
+      "published": "2026-11-09T08:49:17+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -68,39 +88,39 @@
       "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
       "category": "地缘政治",
       "source": "BBC Business",
-      "published": "2026-11-09T00:50:06+00:00",
+      "published": "2026-11-09T08:10:25+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+      "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-11-09T07:30:12+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-11-09T07:10:11+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
       "category": "经济金融",
       "source": "BBC World",
       "published": "2026-11-08T22:05:12+00:00",
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-11-08T15:37:25+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Countryside managers prepare for climate change",
-      "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-08T07:16:55+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -110,26 +130,6 @@
       "source": "BBC Business",
       "published": "2026-11-06T21:49:50+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-      "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-06T16:43:30+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-11-06T15:02:03+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
