@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-09T13:40:26.916716+00:00",
+  "updated_at": "2026-11-10T01:30:35.372598+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "summary": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-08T17:51:03+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+      "summary": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-11-09T16:01:19+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
       "title": "AI stocks climb after trillions wiped from market values",
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "category": "经济金融",
-      "source": "BBC World",
+      "source": "BBC Business",
       "published": "2026-11-06T21:06:25+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
@@ -34,23 +34,73 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-10T01:22:10+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-10T00:09:49+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-10T00:08:28+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-09T13:10:32+00:00",
+      "published": "2026-11-09T23:51:22+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Government's EV targets expected to be reduced this week",
-      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
       "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-09T23:28:53+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-09T20:20:08+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "The facial recognition technology stopping shoplifters",
+      "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+      "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-11-09T12:06:22+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "published": "2026-11-09T19:00:43+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -58,49 +108,9 @@
       "summary": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
       "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-11-09T11:33:58+00:00",
+      "published": "2026-11-09T14:52:07+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-      "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-11-09T10:41:57+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-09T08:49:17+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-      "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-11-09T08:10:25+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
-      "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-09T07:30:12+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -111,16 +121,6 @@
       "published": "2026-11-09T07:10:11+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
-      "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-11-08T22:05:12+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
