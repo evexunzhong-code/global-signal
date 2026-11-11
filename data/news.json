@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-11-10T13:30:22.246210+00:00",
+  "updated_at": "2026-11-11T01:29:51.693231+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Anthropic to raise $64bn in major stock market listing",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-      "category": "经济金融",
+      "title": "Arrests made after visit from former US President Biden",
+      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-10T13:19:37+00:00",
+      "published": "2026-11-10T18:07:56+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-11-10T17:56:12+00:00",
       "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
       "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-10T12:25:48+00:00",
+      "published": "2026-11-10T17:03:16+00:00",
       "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "category": "经济金融",
-      "source": "BBC Technology",
-      "published": "2026-11-06T21:06:25+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "What is net zero and is the UK on track to achieve it?",
-      "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-06T16:22:51+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-10T13:23:54+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:19:42+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
       "category": "地缘政治",
       "source": "BBC Business",
-      "published": "2026-11-10T11:43:06+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:19:13+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-10T11:23:18+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:18:07+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-11-11T00:16:44+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -78,19 +78,29 @@
       "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
       "category": "能源气候",
       "source": "BBC Business",
-      "published": "2026-11-10T09:57:29+00:00",
+      "published": "2026-11-10T16:03:46+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "category": "地缘政治",
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-11-10T14:45:46+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "category": "经济金融",
       "source": "BBC World",
-      "published": "2026-11-10T09:40:31+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "published": "2026-11-10T13:45:13+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -104,13 +114,13 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Final chapter for bookshop after rise in bills",
-      "summary": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-10T06:22:52+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "title": "Birds return to waterfowl park after oil vandalism",
+      "summary": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-11-09T14:52:07+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -120,16 +130,6 @@
       "source": "BBC Business",
       "published": "2026-11-09T07:10:11+00:00",
       "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-11-06T21:49:50+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
