@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-11T01:29:51.693231+00:00",
+  "updated_at": "2026-11-11T13:38:13.592041+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Arrests made after visit from former US President Biden",
-      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "title": "US warns Madagascar over growing military ties with Russia",
+      "summary": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-10T18:07:56+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T07:30:15+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -24,62 +24,62 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-10T17:03:16+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-11T00:19:42+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T13:25:47+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-11-11T00:19:13+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-11T00:18:07+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T12:53:11+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+      "summary": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-11T12:30:29+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-11T12:14:12+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Christmas toy rush being driven by squishies and building sets",
       "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
       "category": "科技产业",
       "source": "BBC Business",
-      "published": "2026-11-11T00:16:44+00:00",
+      "published": "2026-11-11T07:52:05+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
-      "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+      "title": "Artist creates world's biggest soil painting",
+      "summary": "Phil Lambert used four types of soil, including some collected from his mother, to create his work.",
       "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-11-10T16:03:46+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published": "2026-11-11T06:06:21+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -94,16 +94,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-11-10T13:45:13+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "The swan sanctuary wetland fighting climate change",
       "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
       "category": "能源气候",
@@ -111,6 +101,16 @@
       "published": "2026-11-10T06:30:29+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
       "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "The facial recognition technology stopping shoplifters",
+      "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-11-09T19:00:43+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
