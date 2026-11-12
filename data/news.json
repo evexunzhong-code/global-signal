@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-12T01:41:21.342381+00:00",
+  "updated_at": "2026-11-12T13:41:09.651426+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-12T00:36:11+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "title": "Gas bills to rise as Middle East turmoil persists",
+      "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-11-12T06:15:36+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "category": "地缘政治",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+      "category": "科技产业",
       "source": "BBC World",
-      "published": "2026-11-11T18:04:58+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "published": "2026-11-12T11:21:25+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -34,43 +34,83 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-      "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-11-12T00:49:05+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-      "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-11-11T22:48:59+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "summary": "The UK is seeing impressive growth, but will it last?",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-11-11T21:42:20+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "published": "2026-11-12T13:27:09+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-11T20:00:54+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "published": "2026-11-12T13:02:37+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-12T12:26:01+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-12T12:14:51+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "UK economy grows at fastest rate for more than two years",
+      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-11-12T11:20:25+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+      "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-11-12T11:03:53+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "British woman missing from cruise ship in Atlantic",
+      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-12T10:13:35+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-11-12T04:18:33+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -84,26 +124,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Artist creates world's biggest soil painting",
-      "summary": "Phil Lambert used four types of soil, including some collected from his mother, to create his work.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-11T06:06:21+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-10T14:45:46+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "The swan sanctuary wetland fighting climate change",
       "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
       "category": "能源气候",
@@ -111,26 +131,6 @@
       "published": "2026-11-10T06:30:29+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
       "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Birds return to waterfowl park after oil vandalism",
-      "summary": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-09T14:52:07+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-11-09T07:10:11+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
