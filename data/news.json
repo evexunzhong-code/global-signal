@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:35:46.459683+00:00",
+  "updated_at": "2026-11-13T13:37:35.534579+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -14,6 +14,36 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-11-13T11:43:27+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "What we know so far about the Microsoft outage",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-11-13T11:43:27+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "What happened overnight with the Microsoft global outage?",
+      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-11-13T07:18:17+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
       "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
       "category": "地缘政治",
@@ -21,26 +51,6 @@
       "published": "2026-11-13T00:20:24+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-11-12T23:34:05+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-11-12T20:25:29+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -54,6 +64,46 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-13T13:34:53+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "category": "地缘政治",
+      "source": "BBC Technology",
+      "published": "2026-11-13T13:19:51+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+      "category": "地缘政治",
+      "source": "BBC Technology",
+      "published": "2026-11-13T12:43:27+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Flood victim, 95, lived in Wetherspoons until she died after her home was destroyed",
+      "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+      "category": "经济金融",
+      "source": "BBC Science",
+      "published": "2026-11-13T06:05:49+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "'My window faces a brick wall': What's your rent in NYC?",
       "summary": "We ask people in New York City how much they pay for their homes.",
       "category": "能源气候",
@@ -64,53 +114,13 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-      "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-11-13T00:13:35+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-12T23:42:52+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
-      "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
-      "category": "经济金融",
+      "title": "BBC Inside Science",
+      "summary": "China: climate saviour or global villain?",
+      "category": "能源气候",
       "source": "BBC Science",
-      "published": "2026-11-12T22:49:48+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-12T21:27:21+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
-      "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-11-12T19:33:37+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "published": "2026-11-12T21:00:00+00:00",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -121,16 +131,6 @@
       "published": "2026-11-12T13:27:09+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
-      "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-12T11:03:53+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
