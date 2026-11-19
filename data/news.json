@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T07:41:22.410682+00:00",
+  "updated_at": "2026-11-19T20:50:55.199308+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -24,20 +24,30 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-11-19T02:20:15+00:00",
+      "source": "BBC Business",
+      "published": "2026-11-19T15:58:58+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-19T13:31:23+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
       "category": "经济金融",
-      "source": "BBC Business",
+      "source": "BBC World",
       "published": "2026-11-18T23:42:07+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
@@ -51,16 +61,6 @@
       "published": "2026-11-18T13:16:53+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Irishman charged with destroying US military aircraft with axe",
-      "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-18T02:00:37+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -94,23 +94,23 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Business Daily",
-      "summary": "Jensen Huang quit Nvidia, but the AI chip boom rolls on. What's changed is who's paying?",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-11-16T21:30:00+00:00",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grt?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "title": "Oil firm fined for breaking environmental rules hundreds of times",
+      "summary": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
+      "category": "能源气候",
+      "source": "BBC Science",
+      "published": "2026-11-19T19:58:27+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-11-16T06:24:08+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
+      "title": "More support for households reliant on heating oil",
+      "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-11-19T15:22:31+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
