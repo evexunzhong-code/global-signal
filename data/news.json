@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T20:45:10.655626+00:00",
+  "updated_at": "2026-11-19T07:41:22.410682+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -24,11 +24,21 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-19T02:20:15+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
       "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-11-18T13:55:14+00:00",
+      "source": "BBC Business",
+      "published": "2026-11-18T23:42:07+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
@@ -84,50 +94,40 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "title": "Business Daily",
+      "summary": "Jensen Huang quit Nvidia, but the AI chip boom rolls on. What's changed is who's paying?",
+      "category": "科技产业",
+      "source": "BBC Business",
+      "published": "2026-11-16T21:30:00+00:00",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grt?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
       "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-17T22:46:30+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "source": "BBC Science",
+      "published": "2026-11-16T06:24:08+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "How high is UK inflation and how will you be affected?",
-      "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+      "title": "Who are the investors ready to jump on Anthropic?",
+      "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
       "category": "经济金融",
       "source": "BBC Business",
-      "published": "2026-11-18T19:37:27+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
-      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-      "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-18T13:17:06+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "MP urges council to speed up heating oil payments",
-      "summary": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
-      "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-11-18T08:48:26+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "published": "2026-11-19T01:22:38+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
       "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
       "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
       "category": "能源气候",
-      "source": "BBC World",
+      "source": "BBC Science",
       "published": "2026-11-17T23:34:56+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
