@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-11-19T20:50:55.199308+00:00",
+  "updated_at": "2026-11-20T07:33:16.204165+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "How did Anthropic's stock market debut unfold?",
+      "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-19T23:52:25+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "Security flaw found in Java, world's third-largest programming language",
       "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
@@ -21,6 +31,46 @@
       "published": "2026-11-17T18:43:05+00:00",
       "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-11-20T07:14:46+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-11-20T06:00:33+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "category": "经济金融",
+      "source": "BBC World",
+      "published": "2026-11-19T23:33:51+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "California targets Nvidia in China AI chip probe",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "category": "科技产业",
+      "source": "BBC World",
+      "published": "2026-11-19T23:04:30+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -44,32 +94,12 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "category": "经济金融",
-      "source": "BBC World",
-      "published": "2026-11-18T23:42:07+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
       "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
       "category": "科技产业",
       "source": "BBC Technology",
       "published": "2026-11-18T13:16:53+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "category": "科技产业",
-      "source": "BBC World",
-      "published": "2026-11-18T01:18:18+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
@@ -84,13 +114,13 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-11-17T23:02:12+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-11-20T05:03:43+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -101,36 +131,6 @@
       "published": "2026-11-19T19:58:27+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "More support for households reliant on heating oil",
-      "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
-      "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-11-19T15:22:31+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Who are the investors ready to jump on Anthropic?",
-      "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-19T01:22:38+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-      "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-      "category": "能源气候",
-      "source": "BBC Science",
-      "published": "2026-11-17T23:34:56+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
