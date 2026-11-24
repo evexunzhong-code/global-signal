@@ -1,13 +1,23 @@
 {
-  "updated_at": "2026-11-24T00:07:55.700870+00:00",
+  "updated_at": "2026-11-24T10:10:04.015883+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
+      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+      "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-11-24T09:33:00+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
       "category": "科技产业",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "published": "2026-11-23T23:16:08+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
       "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
@@ -24,10 +34,20 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-23T21:03:34+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "signal": "制裁措施的变化可能影响跨境交易与外交谈判。后续关注具体限制清单、执行日期和相关国家反应。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
       "title": "What failure of COP31 reveals about a divided world",
       "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
       "category": "能源气候",
-      "source": "BBC World",
+      "source": "BBC Science",
       "published": "2026-11-23T17:24:25+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
@@ -74,43 +94,23 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
       "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
       "category": "地缘政治",
-      "source": "BBC Business",
-      "published": "2026-11-23T23:10:27+00:00",
+      "source": "BBC World",
+      "published": "2026-11-24T09:42:54+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
-      "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-23T21:40:30+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
       "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-23T20:48:35+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T02:15:59+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-      "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-      "category": "科技产业",
-      "source": "BBC Business",
-      "published": "2026-11-23T17:11:58+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -124,13 +124,13 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "What's next after no deal at COP31 climate talks?",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
       "category": "能源气候",
-      "source": "BBC World",
-      "published": "2026-11-23T05:34:39+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "source": "BBC Business",
+      "published": "2026-11-23T01:05:07+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
