@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-11-24T22:38:23.000464+00:00",
+  "updated_at": "2026-11-25T08:55:06.059186+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+      "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-25T07:26:54+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-25T00:58:34+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "Tech Life",
       "summary": "Experts from around the world plot the progress of AI development every five years.",
@@ -31,16 +51,6 @@
       "published": "2026-11-24T15:17:28+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
       "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-24T11:45:52+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -84,53 +94,43 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-23T11:34:10+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "title": "Energy bills to rise by 26% from January",
+      "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-11-25T08:38:13+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "summary": "The verdict follows a months-long trial in New York.",
       "category": "经济金融",
       "source": "BBC World",
-      "published": "2026-11-24T22:24:23+00:00",
+      "published": "2026-11-25T02:59:27+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "summary": "Here is what you need to know about the payment that millions will receive from January.",
-      "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-11-24T20:16:24+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+      "title": "The rising cost of putting food on the table in India",
+      "summary": "India's food inflation is broadening, squeezing household budgets.",
       "category": "经济金融",
-      "source": "BBC Business",
-      "published": "2026-11-23T21:40:30+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
+      "source": "BBC World",
+      "published": "2026-11-25T01:02:13+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Five takeaways from the failed climate talks COP31",
-      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "title": "What will the energy cap changes mean for my bills?",
+      "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
       "category": "能源气候",
-      "source": "BBC World",
-      "published": "2026-11-23T06:33:50+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "signal": "环境政策与实际变化可能影响减排进程和产业预期。后续关注官方统计及政策落实。",
+      "source": "BBC Business",
+      "published": "2026-11-25T00:33:25+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
