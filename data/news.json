@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T21:51:54.115822+00:00",
+  "updated_at": "2026-11-26T08:40:19.179523+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
@@ -27,7 +27,7 @@
       "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
       "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
       "category": "经济金融",
-      "source": "BBC Business",
+      "source": "BBC World",
       "published": "2026-11-25T16:42:11+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
@@ -61,16 +61,6 @@
       "published": "2026-11-25T09:56:33+00:00",
       "url": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
       "signal": "货币政策或通胀变化可能影响融资成本与汇率预期。后续关注官方数据及央行会议。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "Clashing political visions reflect a divided Spain ahead of election",
-      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-25T00:58:34+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -117,7 +107,7 @@
       "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
       "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
       "category": "经济金融",
-      "source": "BBC Business",
+      "source": "BBC Technology",
       "published": "2026-11-23T21:23:42+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
@@ -131,6 +121,16 @@
       "published": "2026-11-23T17:24:25+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Parents cutting basics at Christmas, charity warns",
+      "summary": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
+      "category": "地缘政治",
+      "source": "BBC Business",
+      "published": "2026-11-26T06:13:47+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
       "signal_type": "免费规则分析 · 需人工核实"
     }
   ]
