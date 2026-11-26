@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-26T08:40:19.179523+00:00",
+  "updated_at": "2026-11-26T21:45:57.558281+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
     {
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-25T21:51:17+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "signal": "制裁措施的变化可能影响跨境交易与外交谈判。后续关注具体限制清单、执行日期和相关国家反应。",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "category": "经济金融",
+      "source": "BBC Business",
+      "published": "2026-11-26T19:55:58+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Martin Lewis' tips on staying warm this winter",
-      "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
-      "category": "能源气候",
-      "source": "BBC Business",
-      "published": "2026-11-25T17:59:14+00:00",
-      "url": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-26T00:23:27+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
       "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
       "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
       "category": "经济金融",
-      "source": "BBC World",
+      "source": "BBC Business",
       "published": "2026-11-25T16:42:11+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
       "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
@@ -74,16 +74,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Mass badger cull ruled out by Welsh government after speculation",
-      "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
-      "category": "地缘政治",
-      "source": "BBC Science",
-      "published": "2026-11-24T16:47:05+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
       "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
       "category": "科技产业",
@@ -104,16 +94,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-      "category": "经济金融",
-      "source": "BBC Technology",
-      "published": "2026-11-23T21:23:42+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "signal": "可能影响市场预期、企业成本或国际资本流向。可关注后续经济数据与政策变化。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "What failure of COP31 reveals about a divided world",
       "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
       "category": "能源气候",
@@ -121,6 +101,26 @@
       "published": "2026-11-23T17:24:25+00:00",
       "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
       "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+      "category": "能源气候",
+      "source": "BBC World",
+      "published": "2026-11-26T16:21:19+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-26T11:00:39+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
