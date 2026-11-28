@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-11-27T21:29:54.601324+00:00",
+  "updated_at": "2026-11-28T08:11:44.364899+00:00",
   "demo": false,
   "note": "永久免费模式：原文标题和摘要为英语；中文信号是关键词规则生成的观察，请核对报道原文。",
   "stories": [
+    {
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-11-28T07:55:18+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Tech Now",
+      "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+      "category": "科技产业",
+      "source": "BBC Technology",
+      "published": "2026-11-28T01:00:00+00:00",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响技术竞争、产业布局及监管方向。可关注企业投资和政策落地情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
     {
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
@@ -24,16 +44,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-      "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-27T10:39:31+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
-      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "'We're scared to turn our heating on'",
       "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
       "category": "能源气候",
@@ -44,16 +54,6 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-      "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-27T06:04:51+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
       "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
       "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
       "category": "经济金融",
@@ -61,16 +61,6 @@
       "published": "2026-11-26T19:55:58+00:00",
       "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "signal": "贸易限制可能改变企业采购成本与供应链配置。后续关注关税生效范围、豁免情况及贸易伙伴回应。",
-      "signal_type": "免费规则分析 · 需人工核实"
-    },
-    {
-      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-      "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
-      "category": "地缘政治",
-      "source": "BBC World",
-      "published": "2026-11-26T00:23:27+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-      "signal": "选举进展可能改变政策方向及政治联盟。后续关注正式结果、组阁安排与关键政策承诺。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
@@ -94,23 +84,33 @@
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
-      "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
-      "category": "科技产业",
-      "source": "BBC Technology",
-      "published": "2026-11-24T09:33:00+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-      "signal": "这类进展可能改变技术竞争和相关企业的投资预期。后续关注产品落地、监管及投资决策。",
+      "title": "Butcher blames costs for closure after 127 years",
+      "summary": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+      "category": "能源气候",
+      "source": "BBC Business",
+      "published": "2026-11-28T07:18:47+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能影响能源供需、成本或转型节奏。可关注价格变化和政策执行。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-      "category": "能源气候",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "category": "地缘政治",
       "source": "BBC World",
-      "published": "2026-11-27T20:34:45+00:00",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "signal": "能源供需变化可能影响生产成本与通胀。后续关注价格、产量和政策执行。",
+      "published": "2026-11-28T04:19:16+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "signal": "军事或停火进展可能影响地区安全与外交安排。后续关注各方正式声明及实际执行情况。",
+      "signal_type": "免费规则分析 · 需人工核实"
+    },
+    {
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "category": "地缘政治",
+      "source": "BBC World",
+      "published": "2026-11-28T04:13:45+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "signal": "可能改变相关国家的政策预期和谈判空间。可持续关注官方表态和政策实施。",
       "signal_type": "免费规则分析 · 需人工核实"
     },
     {
